@@ -1,6 +1,6 @@
 
 
-# lib/gem_inicial/array_algoritmo.rb
+# lib/gem_inicial/algoritmo_arrays.rb
 
 module GemInicial
   class ArrayAlgoritmo
